@@ -1,2 +1,2 @@
-notebooks/** linguist-vendored
+*.notebooks linguist-detectable = false
 *.python linguist-detectable = true
