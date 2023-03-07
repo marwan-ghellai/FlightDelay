@@ -1,2 +1,3 @@
-*.notebooks linguist-detectable = false
 *.python linguist-detectable = true
+*.notebooks linguist-detectable = false
+remove ipynb from language stats
